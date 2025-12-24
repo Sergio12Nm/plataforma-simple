@@ -210,20 +210,6 @@ El script `game_manager.gd` controla la interfaz y puntuación:
 
 ---
 
-## Cómo Expandir el Juego
-
-### Posibles Mejoras
-
-1. **Múltiples Niveles**: Crear nuevas escenas con diferentes disposiciones de plataformas y enemigos
-2. **Power-ups**: Implementar objetos que otorguen habilidades especiales (invulnerabilidad, velocidad, etc.)
-3. **Enemigos Más Complejos**: Añadir enemigos con comportamientos más avanzados (persecución, saltos, etc.)
-4. **Mecánicas Adicionales**: Incluir paredes pegajosas, plataformas móviles, o activadores
-5. **Pantalla de Game Over**: Crear una pantalla de derrota interactiva
-6. **Sistema de Vidas**: Permitir múltiples intentos antes de reiniciar completamente
-7. **Jefe Final**: Crear un enemigo especial con comportamiento único
-
----
-
 ## Estructura del Código
 
 ### Patrones Utilizados
